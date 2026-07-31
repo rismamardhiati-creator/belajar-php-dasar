@@ -1,6 +1,6 @@
 <?php
-$namaDepan = "Budi";
-$namaBelakang = "Santoso";
+$namaDepan = "Risma";
+$namaBelakang = "Mardhiati";
 $pesan = "Selamat belajar PHP dasar!";
 
 echo "--- Tipe Data String ---<br>";
